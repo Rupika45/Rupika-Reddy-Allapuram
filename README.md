@@ -14,8 +14,9 @@
 #### Links:
 
 - <a href="https://public.tableau.com/app/profile/rupika.reddy.allapuram8676/vizzes">Data Visualizations</a>
+
 - <!--<a href="https://github.com/HeenaBegum/Python-Projects">Python Projects </a>
-- <a href="https://github.com/HeenaBegum/Google-Data-analytics-Bella-Beat-case-study">Google Data Analytics Certification Project </a>-->
+- <a href="https://github.com/HeenaBegum/Google-Data-analytics-Bella-Beat-case-study">Google Data Analytics Certification Project </a> -->
 
 
 
